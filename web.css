@@ -1,0 +1,110 @@
+.button{
+    border: none;
+    color: white; 
+    padding: 20px 12px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.bt1{
+    background-color: white;
+    color: black;
+}
+.bt1:hover{
+    background-color: black;
+    color:white;
+}
+.bt2{
+    background-color: black;
+    color: white;
+}
+.bt2:hover{
+    background-color: white;
+    color: black;
+}
+#N{
+    width: 230px;
+    height: 100%;
+    margin:5px;   
+    float: left;
+}
+#N h3{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+#N p{
+    text-align: center;
+}
+#N h6{
+    margin-top: 0.5px;
+    text-align: center;
+    color: gold;
+}
+#N a{
+    text-align: center;
+    padding-left: 90px;
+    font-size: 19px;
+    color:white;
+}
+.M1 h3{
+    text-align: center;
+    margin-top: 10px;
+}
+.M1 h4{
+    text-align: center;
+}
+#bx{
+    width: 190px;
+    height: 250px;    
+    float: left;
+    margin: 5px;
+}
+#borderimg {
+    border: 4px solid goldenrod;
+    padding:1px 1px;
+    border-image: url(D:\Vscode\wallpaper-4k-hinh-nen-4k-thiet-ke-cuc-dep_101257772.jpg) 30 round;
+   }
+  #borderimg img{
+      width: 180px;
+      height: 100px;
+}
+  #bx h5{
+      text-align: center;
+      color: orange;
+      margin-top:15px;
+  }
+  #bx p{
+      text-align: center;
+      color: black;
+}
+.zutton{
+    border-top-left-radius: 80%;
+    border-bottom-left-radius: 80%;
+    border-top-right-radius: 200%;
+    padding: 20px 55px;
+    text-align: center;
+    background: goldenrod;
+    color: whitesmoke;
+    font-size: 10px;
+}
+.M2{
+    float: left;
+    margin-top: 100px;
+}
+.M2 h3{
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+}
+.M2 h4{
+    text-align: center;
+    color: black;
+}
+.M2 p{
+    text-align: left;
+}
+.z{
+    background: black;
+}
